@@ -1,0 +1,45 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Build / dist
+dist/
+build/
+out/
+target/
+
+# Dependency directories
+node_modules/
+
+# Coverage
+coverage/
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Archive
+*.zip
+*.tar
+*.gz
+
+# Docker
+*.pid
